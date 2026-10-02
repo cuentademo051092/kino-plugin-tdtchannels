@@ -1,0 +1,16 @@
+{
+  "id": "tdtchannels",
+  "name": "TDTChannels",
+  "version": "0.1.0",
+  "apiVersion": 1,
+  "entry": "plugin.js",
+  "hosts": [
+    "tdtchannels.com",
+    "www.tdtchannels.com"
+  ],
+  "capabilities": [
+    "search",
+    "episodes",
+    "resolve"
+  ]
+}
