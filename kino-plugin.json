@@ -1,20 +1,13 @@
 {
   "id": "tdtchannels",
   "name": "TDTChannels",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "apiVersion": 3,
   "entry": "plugin.js",
-  "description": "Canales de TV en abierto de TDTChannels en la pestaña En vivo.",
+  "description": "Canales de TV de TDTChannels en En vivo, mostrando solo las categorías seleccionadas.",
   "author": "Cuenta Demo",
   "homepage": "https://github.com/laquay/tdtchannels",
-  "hosts": [
-    "tdtchannels.com",
-    "www.tdtchannels.com"
-  ],
-  "capabilities": [
-    "home",
-    "resolve",
-    "channels"
-  ],
+  "hosts": ["tdtchannels.com", "www.tdtchannels.com"],
+  "capabilities": ["home", "resolve", "channels"],
   "liveStreamHosts": "any"
 }
