@@ -43,6 +43,7 @@ const HIDDEN_GROUPS = [
   "Int. África",
   "Canarias",
   "C. Madrid",
+  "C. de Madrid",
   "C. Foral de Navarra",
   "C. Valenciana"
 ];

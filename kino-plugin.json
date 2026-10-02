@@ -1,7 +1,7 @@
 {
   "id": "tdtchannels",
   "name": "TDTChannels",
-  "version": "0.2.3",
+  "version": "0.2.4",
   "apiVersion": 3,
   "entry": "plugin.js",
   "description": "Canales de TV en abierto de TDTChannels en la pestaña En vivo.",
