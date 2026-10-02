@@ -40,7 +40,11 @@ const HIDDEN_GROUPS = [
   "R. de Murcia",
   "Int. Europa",
   "Int. Asia",
-  "Int. África"
+  "Int. África",
+  "Canarias",
+  "C. Madrid",
+  "C. Foral de Navarra",
+  "C. Valenciana"
 ];
 
 export async function home() {
