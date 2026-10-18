@@ -1,9 +1,10 @@
 {
   "id": "tdtchannels",
   "name": "TDTChannels",
-  "version": "0.2.4",
+  "version": "0.2.5",
   "apiVersion": 3,
   "entry": "plugin.js",
+  "icon": "icon.png",
   "description": "Canales de TV en abierto de TDTChannels en la pestaña En vivo.",
   "author": "Cuenta Demo",
   "homepage": "https://github.com/laquay/tdtchannels",
